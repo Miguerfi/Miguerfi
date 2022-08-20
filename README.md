@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://www.pngmart.com/files/22/Fortnite-The-Mandalorian-PNG-Image.png" width="300px" align="center"></P>
+<p align="center"><img src="https://i.pinimg.com/736x/85/ee/55/85ee555349c2cdb5da1a5fd7a3a5dddf.jpg" width="300px" align="center"></P>
 
 ![Miguer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migeurfi&show_icons=true&theme=blue-green)
 
