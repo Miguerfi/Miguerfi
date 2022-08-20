@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://i.pinimg.com/736x/85/ee/55/85ee555349c2cdb5da1a5fd7a3a5dddf.jpg" width="300px" align="center"></P>
+<p align="center"><img src="https://github.com/Migeurfi/TCC3i3/blob/master/public/Logotipo_empresa_de_programa%C3%A7%C3%A3o_sistemas_e_tecnologia__1_-removebg-preview.png" align="center"></P>
 
 ![Miguer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migeurfi&show_icons=true&theme=blue-green)
 
