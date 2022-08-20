@@ -2,6 +2,7 @@
 <p align="center"><img src="https://github.com/Migeurfi/TCC3i3/blob/51b9ffd148e5123dd4704cdb605010b12e45627d/public/devmiguerlogo.png" width="300"align="center"></P>
 
 ## Hi, i'm Miguel
+<p>So i'm started programming because i watched Matrix and i wanted be like Neo, i have some scripts projects in py all focused on security information </p>
 
 ![Miguer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migeurfi&show_icons=true&theme=blue-green)
 
