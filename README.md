@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://github.com/Migeurfi/TCC3i3/blob/master/public/Logotipo_empresa_de_programa%C3%A7%C3%A3o_sistemas_e_tecnologia__1_-removebg-preview.png" align="center"></P>
+<p align="center"><img src=https://github.com/Migeurfi/Migeurfi/blob/main/devmiguerlogo.png" align="center"></P>
 
 ## Hi, i'm Miguel
 
