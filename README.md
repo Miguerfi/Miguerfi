@@ -1,8 +1,8 @@
 <h1></h1>
 <p align="center"><img src="https://github.com/Migeurfi/TCC3i3/blob/51b9ffd148e5123dd4704cdb605010b12e45627d/public/devmiguerlogo.png" width="300"align="center"></P>
 
-## Hi, i'm Miguel
-<p>So i'm started programming because i watched Matrix and i wanted be like Neo. </p>
+## Hi, I'm Miguel
+<p>So I'm started programming because i watched Matrix and i wanted be like Neo. </p>
 
 
 
