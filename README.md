@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/Migeurfi/TCC3i3/blob/51b9ffd148e5123dd4704cdb605010b12e45627d/public/devmiguerlogo.png" width="300"align="center"></P>
 
 ## Hi, I'm Miguel
-<p>So I'm started programming because i watched Matrix and i wanted be like Neo. </p>
+<p>So I'm started programming because i watched Matrix and i Wanted be like Neo. </p>
 
 
 
