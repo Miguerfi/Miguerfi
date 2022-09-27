@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77ba0138-bccf-4d19-ad78-1b049b2d741b/devffhp-49543292-42ce-43f6-b046-9ea607051435.png/v1/fill/w_1192,h_670,strp/unbound_thresh_render_by_cathrinegfx_devffhp-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNzdiYTAxMzgtYmNjZi00ZDE5LWFkNzgtMWIwNDliMmQ3NDFiXC9kZXZmZmhwLTQ5NTQzMjkyLTQyY2UtNDNmNi1iMDQ2LTllYTYwNzA1MTQzNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.R13RkvHxY86o8YfFsr4A_DGxaiQME8ajO2rO7V4tTrc" width="900"align="center"></P>
+<p align="center"><img src="https://github.com/Miguerfi/TCC3i3/blob/master/public/devmiguerlogo.png" width="300"align="center"></P>
 
 ## Hi, I'm Miguel
 <p>on terminal 24/7 </p>
