@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://github.com/Miguerfi/TCC3i3/blob/master/public/devmiguerlogo.png" width="300"align="center"></P>
+<p align="center"><img src="https://github.com/Miguerfi/TCC3i3/blob/master/public/devmiguerlogo.png" width="600"align="center"></P>
 
 ## Hi, I'm Miguel
 <p>on terminal 24/7 </p>
