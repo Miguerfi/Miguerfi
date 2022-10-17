@@ -25,6 +25,8 @@
 
 <br>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Miguerfi/Miguerfi/output/github-contribution-grid-snake.svg" />
+</div>
 
 
