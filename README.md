@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://github.com/Miguerfi/TCC3i3/blob/master/public/devmiguerlogo.png" width="600"align="center"></P>
+
 
 ## Hi, I'm Miguel
 <p>on terminal 24/7 </p>
@@ -9,24 +9,24 @@
 
 
 
-<p align="left">
 
+<div>
+  <p style="background-color: red;float: left;">
+    <img src="https://github.com/Miguerfi/Miguerfi/blob/main/Godhand_Void_Render.png" width="50%"align="right">
+    <br>
 
-![Miguer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguerfi&show_icons=true&theme=blue-green)
+  </p>
+  <p>
 
+  </p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguerfi&langs_count=8&theme=blue-green)](https://github.com/Miguerfi/github-readme-stats)
-
-
-[![BLOG](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4ktmiguer/)[![BLOG](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/drflmiguer/)
-
-
+<p>
+ <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=q0b1qqba5a7ky2fc5m6njfcvn&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=q0b1qqba5a7ky2fc5m6njfcvn&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)">
 </p>
+
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Miguerfi/Miguerfi/output/github-contribution-grid-snake.svg" />
-</div>
 
 
