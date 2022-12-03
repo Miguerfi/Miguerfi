@@ -1,3 +1,5 @@
+name: Waka Readme
+
 - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
