@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: Miguerfi/Miguerfi@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.waka_7f8aeaec-09d0-47d4-8bba-b44fb9605f62 }}
+          GH_TOKEN: ${{ secrets.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 }}
