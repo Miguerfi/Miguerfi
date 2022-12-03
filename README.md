@@ -2,9 +2,11 @@
 ### like code n listen to music
 
 
-![Metrics](https://metrics.lecoq.io/Miguerfi?template=classic&base.hireable=true&base.metadata=0&isocalendar=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=@Miguerfi&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=America%2FSao_Paulo&config.octicon=true)
+![Metrics](https://metrics.lecoq.io/Miguerfi?template=classic&base.hireable=true&languages=1&lines=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.limit=7&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=6&lines.history.limit=1&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FSao_Paulo&config.octicon=true)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q0b1qqba5a7ky2fc5m6njfcvn&cover_image=false&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
