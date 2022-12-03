@@ -1,5 +1,8 @@
 name: Metrics
+workflow_dispatch:
+push: {branches: ["master", "main"]}
 uses: lowlighter/metrics@latest
+
 with:
   filename: metrics.base.svg
   token: ${{ secrets.METRICS_TOKEN }}
