@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_code: yes
-          plugin_code_languages: javascript, typescript
+          plugin_code_languages: javascript, typescript, Python, cplusplus
           plugin_code_load: 400
           plugin_activity: yes
           plugin_activity_days: 14
