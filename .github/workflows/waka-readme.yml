@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: Update Readme with Metrics
-    environment: name-of-environment
+    environment: Wakatime
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
