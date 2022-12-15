@@ -2,7 +2,7 @@
 ### like code n listen to music
 
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
