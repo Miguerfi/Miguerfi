@@ -8,7 +8,6 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    environment: Wakatime
     runs-on: ubuntu-latest
     steps:
       - uses: Miguerfi/waka-readme@master
