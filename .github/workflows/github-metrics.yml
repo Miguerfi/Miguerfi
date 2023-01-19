@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Miguerfi/terminal
+      - uses: Miguerfi/terminal@main
         with:
           # Your GitHub token
           # The following scopes are required:
