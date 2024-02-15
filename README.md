@@ -1,5 +1,5 @@
-# Hi i'm Miguer
-### like code n listen to music
+# Olá, eu sou o José Miguel(Miguer) Araujo Silva
+Desenvolvedor JR(realmente Desenvolvedor JR,nada de curso de 6 mêses) 2 anos de XP como full stack. tenho mais conhecimento sobre Django e frameworks baseado em React(REACT NATIVE,NEXTJS).atualmente estudo Java com o framework JAVA SPRING BOOT na EBAC, pretendo me especializar nele e em outros frameworks back-end em java.
 
 ![Metrics](/github-metrics.svg)
 
