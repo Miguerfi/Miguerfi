@@ -1,4 +1,5 @@
 
-<img src="/github-metrics.svg"/>
-
-
+```math
+Miguer-
+TS|RS|JAVA|PY
+```
